@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 4074998965
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: difficultranking
+      Dependencies: {}
+    Info_1:
+      Name: easyranking
+      Dependencies: {}
+    Info_2:
+      Name: normalranking
+      Dependencies: {}
